@@ -1,0 +1,10 @@
+.checkOutSummary{
+    text-align: center;
+    width: 100%;
+    margin: auto
+}
+@media (min-width: 500px){
+    .checkOutSummary{
+        width: 500px;
+    }
+}
